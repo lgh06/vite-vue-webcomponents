@@ -2,5 +2,5 @@ src/
 public/
 .vscode/
 README.md
-index.html
+/index.html
 vite.config.js
