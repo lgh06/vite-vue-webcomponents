@@ -1,0 +1,6 @@
+src/
+public/
+.vscode/
+README.md
+index.html
+vite.config.js
