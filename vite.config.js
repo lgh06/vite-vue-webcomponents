@@ -21,7 +21,8 @@ export default defineConfig({
         },
         // https://rollupjs.org/guide/en/#outputentryfilenames
         // entryFileNames only affect no index.html js files
-        entryFileNames:  "lgh-[name].js"
+        entryFileNames:  "[name].js",
+        // entryFileNames:  "lgh-[name].js"
       }
     },
   },
